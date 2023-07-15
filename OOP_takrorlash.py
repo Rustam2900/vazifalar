@@ -1,4 +1,3 @@
-# vazifalar
 # class Person:
 #     def greet(self, name):
 #         #print("Hello, " + name + "!")
