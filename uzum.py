@@ -49,4 +49,4 @@ car1 = Car(region,"Laseti",12000,marketi,modeli,2020)
 print(car)
 print(car1.narx_(14000))
 
-
+print("Hello word")
